@@ -1,0 +1,10 @@
+id,doctorid,doctorname,doctordept,doctorloc,doctoremail,password,doctorphone,basicsalary,hra,allowance,deductions,grosssalary,netsalary,month,doctoraddress,speacification,doj
+1,1001,Arun,Cardiology,Chennai,arun1001@hospital.com,arun123,8190086456,2000,600,400,200,0,0,30,Madurai,MBBS,12-12-2000
+2,1002,Ravi,Neurology,Chennai,ravi1002@hospital.com,ravi123,900088443,1000,800,300,100,0,0,30,Chennai,MBBS,12-12-2000
+3,1003,Selva,Cardiology,Chennai,arun1001@hospital.com,arun123,8190086456,2000,600,400,200,0,0,30,Madurai,MBBS,12-12-2000
+4,1004,Kumar,Neurology,Chennai,ravi1002@hospital.com,ravi123,900088443,1000,800,300,100,0,0,30,Chennai,MBBS,12-12-2000
+5,1005,Indhu,Cardiology,Chennai,arun1001@hospital.com,arun123,8190086456,2000,600,400,200,0,0,30,Madurai,MBBS,12-12-2000
+6,1006,Deepika,Neurology,Chennai,ravi1002@hospital.com,ravi123,900088443,1000,800,300,100,0,0,30,Chennai,MBBS,12-12-2000
+7,1007,Tharan,Cardiology,Chennai,arun1001@hospital.com,arun123,8190086456,2000,600,400,200,0,0,30,Madurai,MBBS,12-12-2000
+8,1008,Sanjay,Neurology,Chennai,ravi1002@hospital.com,ravi123,900088443,1000,800,300,100,0,0,30,Chennai,MBBS,12-12-2000
+9,1009,Ashok,Cardiology,Chennai,arun1001@hospital.com,arun123,8190086456,2000,600,400,200,0,0,30,Madurai,MBBS,12-12-2000
